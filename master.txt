@@ -2,3 +2,5 @@ this my 1st commit
 feature1
 developer2
 new comment from DevA
+new comment by DevB
+
